@@ -8,3 +8,13 @@ C:\Users\TORRE 01\source\repos\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02
 C:\Users\TORRE 01\source\repos\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
 C:\Users\TORRE 01\source\repos\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
 C:\Users\TORRE 01\source\repos\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\TORRE 01\source\repos\ByteBank_Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

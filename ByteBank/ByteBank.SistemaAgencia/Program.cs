@@ -10,7 +10,10 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            //Implementação
+            string URL = "bytebankl.com/moeda?moedaOrigem=real&moedaDestino=dolar";
+            ExtratorURL extratorURl = new ExtratorURL(URL);
+            Console.WriteLine(extratorURl.GetValor("moedaDestino"));
+            Console.ReadLine();
         }
     }
 }
